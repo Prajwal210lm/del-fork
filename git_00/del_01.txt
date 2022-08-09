@@ -1,0 +1,13 @@
+mkdir
+git init
+touch 
+rm 
+rm -r
+git add .
+git commit -m "message"
+git status
+git branch <Branch Name>
+git checkout <Branch name>
+git checkout -b <Branch name>
+git checkout <Commit ID>
+git log
